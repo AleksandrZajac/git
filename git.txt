@@ -1,4 +1,4 @@
 добавить удаленый репозиторий
-git remote add pb https://github.com/AleksandrZajac/git or git remote add origin https://github.com/AleksandrZajac/git
+
 git remote -v
 git fetch pb
