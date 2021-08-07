@@ -8,3 +8,4 @@ git push -u origin main
 git remote -v
 //Забирает изменения из удаленного репозитория
 git fetch origin
+afadfdsaf
