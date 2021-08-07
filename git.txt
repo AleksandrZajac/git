@@ -1,4 +1,10 @@
 добавить в удаленый репозиторий
-
+new create repository в гитхабе
+…or push an existing repository from the command line в гитхабе
+git remote add origin git@github.com:AleksandrZajac/git.git
+git branch -M main
+git push -u origin main
+//проверка добавился ли удаленный репозиторий
 git remote -v
-git fetch pb
+//Забирает изменения из удаленного репозитория
+git fetch origin
